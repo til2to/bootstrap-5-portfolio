@@ -4,14 +4,14 @@
 
 ## Built With
 
-- bootstrap
+- bootstrap-5
 - html
 
 ## Authors
+John Mutisya
 
 👤 **Author1**
-
-- GitHub: [@til2to](https://til2to.github.io/porfolio_projects/)
+Owusu Dennis
 
 ## 🤝 Contributing
 
